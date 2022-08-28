@@ -1,0 +1,17 @@
+
+
+
+    /* for button */
+    .btn{
+        border-radius: 8rem !important;
+        padding:0.25rem 1.24rem!important;
+    }
+
+    .message{
+        background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);  
+    }
+
+    .icondesign{
+        font-size: 60px;
+        padding: 20px;
+    }
