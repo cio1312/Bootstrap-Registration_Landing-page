@@ -1,4 +1,4 @@
-# registration_project
+# Registration Landing Page
 
 # [Start Bootstrap - Landing Registration page]
 
